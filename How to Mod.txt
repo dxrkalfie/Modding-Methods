@@ -1,0 +1,27 @@
+# How to Mod (Simple Way)
+**REQUIRMENTS:**
+[APK easy tool](https://github.com/mkcs121/APK-Easy-Tool/releases)
+[uabea](https://github.com/nesrak1/UABEA/releases)
+[Java (Jdk)](https://www.oracle.com/java/technologies/downloads/)
+
+1. You want to download what i have Put in the Requirements!
+2. You will Need the Apk You Want to Mod there Game and Decompile it with Apk Easy Tool
+4. Next You Want To Find Your **data.unity3d** And Open It in **uabea** And make sure to click **Memory** When it asks "File" "Memory" or "Close"
+5. Once Open, Make sure you are on **Level0** (However the game might have different levels so if it isnt level0 check a different one!)
+6. Once you are on it press **info** to open up the **Assets Info Panel**
+7. Once that is open / on your screen, find an object that you want to be enabled / disabled (Best way is pressing on a random object and press "View Scene")
+# If you didn't do the Scene part (you can still do this if you have)
+8. once you have found your object (either staff items, anti cheat object, What ever) on the **Assets info** panel click **Edit Data**
+9. once that has been pressed, its either going to say bool m_IsActive = true or bool m_IsActive = false so if its false and you want it to be enabled you want it to be true
+
+# If you did the Scene way (same way just different)
+10. press on the object you want
+11. On the components side you should see something that says "Transform base" if its closed open it!
+12. clock on the first one where it says "m_GameObject" then you should see something called **view Asset**
+13. Right Click it, then press **Edit Asset**
+14. Then change bool m_IsActive = true or bool m_IsActive = false to be true if its a staff cosmetic or false if its something you dont want
+
+
+
+
+**Made By DxrkAlfie**
