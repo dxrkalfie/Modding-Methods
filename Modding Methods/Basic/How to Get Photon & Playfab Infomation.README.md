@@ -16,3 +16,7 @@
 (note: If You Don't See The ID's They Are Hidden And I Am Not telling How Since I Don't Know How)
 
 **Made By DxrkAlfie**
+
+## How ever there is a easier way! I have made a tool for this! but it might not always work so this methods is still helpful! 
+- Here's The tool: https://github.com/dxrkalfie/Infomation-Puller
+
