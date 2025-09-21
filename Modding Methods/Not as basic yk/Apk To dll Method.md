@@ -1,6 +1,8 @@
 # This is for if you want to look for the Assembly-CSharp From the apk (Mostly this is for looking for anti-cheats / Kick stuff or application quit)
 - Note: This will not teach you how to remove a anti cheat! Go to Anti-cheat Remover File to do that!
+
 **Requirements**
+
 [DnSpy](https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8)
 - Either SamBoy's Version or the one that uses samBoys But its a gui (Which is easier i will be covering both!)
 
@@ -34,4 +36,5 @@
 ## Thats it really, Love you guys ❤️
 
 - Discord: dxrkalfie if you need any help or anything!
+
 
