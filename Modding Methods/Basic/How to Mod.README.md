@@ -17,7 +17,7 @@
 # If you did the Scene way (same way just different)
 10. press on the object you want
 11. On the components side you should see something that says "Transform base" if its closed open it!
-12. clock on the first one where it says "m_GameObject" then you should see something called **view Asset**
+12. click on the first one where it says "m_GameObject" then you should see something called **view Asset**
 13. Right Click it, then press **Edit Asset**
 14. Then change bool m_IsActive = true or bool m_IsActive = false to be true if its a staff cosmetic or false if its something you dont want
 
@@ -27,3 +27,4 @@
 **Made By DxrkAlfie**
 
 Love You ❤️
+
