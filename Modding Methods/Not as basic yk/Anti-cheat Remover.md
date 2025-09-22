@@ -1,9 +1,13 @@
 # This is for are getting kicked / anti cheat in a game! (This will show you how to be anti-kicked)
 
 **Requirements**
+
 [APK easy tool](https://github.com/mkcs121/APK-Easy-Tool/releases)
+
 [uabea](https://github.com/nesrak1/UABEA/releases)
+
 [Java (Jdk)](https://www.oracle.com/java/technologies/downloads/)
+
 [dnSpy](https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8)
 
 - if you followed the Apk To DLL Method you should be able to do this! if not go back or click this link, https://github.com/dxrkalfie/Modding-Methods/blob/main/Modding%20Methods/Not%20as%20basic%20yk/Apk%20To%20dll%20Method.md
@@ -24,3 +28,4 @@
 
 # thats how you Remove anticheats / kick scripts (for anti kick) or playfab scripts (for anti-ban)
 - Love you guys ❤️
+
